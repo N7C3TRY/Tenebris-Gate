@@ -1,0 +1,10 @@
+C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\Main.c;C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\Release\Main.obj
+C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\AntiDebug.c;C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\Release\AntiDebug.obj
+C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\PebMasquerade.c;C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\Release\PebMasquerade.obj
+C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\ApiResolve.c;C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\Release\ApiResolve.obj
+C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\TamperedSyscalls.c;C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\Release\TamperedSyscalls.obj
+C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\AesCrypt.c;C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\Release\AesCrypt.obj
+C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\HellShellDecode.c;C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\Release\HellShellDecode.obj
+C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\Decompress.c;C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\Release\Decompress.obj
+C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\SelfDestruct.c;C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\Release\SelfDestruct.obj
+C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\ctaes\ctaes.c;C:\Users\testi\OneDrive\Desktop\TestEnv\SilentForge\Loader\Release\ctaes.obj
