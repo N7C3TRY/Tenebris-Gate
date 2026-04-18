@@ -1,3 +1,6 @@
+<img width="1360" height="840" alt="tenebris_gate_logo" src="https://github.com/user-attachments/assets/3c63ecdf-5afd-43be-9d34-712450ecfdc7" />
+
+
 # SilentForge -- Stacked Silent Execution Pipeline
 
 Multi-layered evasion framework for CES lab exercises. Takes raw shellcode (`thinkpad.bin`) through a 10-layer obfuscation and execution pipeline.
