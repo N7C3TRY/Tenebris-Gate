@@ -1,4 +1,4 @@
-<img width="1360" height="840" alt="tenebris_gate_logo" src="https://github.com/user-attachments/assets/3c63ecdf-5afd-43be-9d34-712450ecfdc7" />
+<img width="1280" height="640" alt="tenebris_gate_logo (1)" src="https://github.com/user-attachments/assets/555877e0-a4a4-4feb-9da6-dcc179d4f34b" />
 
 
 # SilentForge -- Stacked Silent Execution Pipeline
