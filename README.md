@@ -3,7 +3,7 @@ multi layer encryption for payloads with options of delivery welcome to the Tene
 
 
 <img width="1360" height="840" alt="tenebris_gate_logo" src="https://github.com/user-attachments/assets/bf6942b9-c0a6-454e-a10b-46e21a9e4c05" />
-![Uploading tenebris_gate_logo.svg…]()
+
 
 
 
