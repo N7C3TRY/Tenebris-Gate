@@ -3,7 +3,7 @@
 
 # TENEBRIS aka Slient-forge -- Stacked Silent Execution Pipeline
 
-Multi-layered evasion framework for CES lab exercises. Takes raw shellcode (`thinkpad.bin`) through a 10-layer obfuscation and execution pipeline.
+Multi-layered evasion framework. Takes raw shellcode (`yourC2.bin`) through a 10-layer obfuscation and execution pipeline.
 
 ## Evasion Stack
 
