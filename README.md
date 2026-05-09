@@ -1,6 +1,6 @@
 <img width="1280" height="640" alt="tenebris_gate_logo (1)" src="https://github.com/user-attachments/assets/555877e0-a4a4-4feb-9da6-dcc179d4f34b" />
 
-
+#UPDATE ----> when needed i will update the tool. If and when, it starts getting detected. Make a reqest on X or here if this starts getting BONKED by av. https://x.com/RNgxz3r0 
 # TENEBRIS aka Slient-forge -- Stacked Silent Execution Pipeline
 
 Multi-layered evasion framework. Takes raw shellcode (`yourC2.bin`) through a 10-layer obfuscation and execution pipeline.
